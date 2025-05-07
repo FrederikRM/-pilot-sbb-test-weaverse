@@ -23,7 +23,6 @@ export let variants = cva(
           "hover:text-[--btn-primary-bg]",
           "hover:bg-[--btn-primary-text]",
           "hover:border-[--btn-primary-bg]",
-          "rounded-[--btn-border-radius]",
         ],
         secondary: [
           "border px-4 py-3",

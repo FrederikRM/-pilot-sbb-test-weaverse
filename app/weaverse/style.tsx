@@ -75,7 +75,6 @@ export function GlobalStyle() {
               --btn-secondary-bg: ${buttonSecondaryBg};
               --btn-secondary-text: ${buttonSecondaryColor};
               --btn-outline-text: ${buttonOutlineTextAndBorder};
-              --btn-border-radius: ${buttonBorderRadius};
 
               /* Colors (product) */
               --color-compare-price-text: ${comparePriceTextColor};
